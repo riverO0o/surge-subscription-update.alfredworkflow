@@ -26,7 +26,7 @@
 - 默认拉取超时 15秒，如果需要修改更长或者更短，则修改 `curl -m 15` 的值
 
 ## 使用截图
-![WX20210320-190705](https://user-images.githubusercontent.com/1693027/111867567-d58cf900-89af-11eb-8d6c-9d46f71c38e1.png)
-![WX20210320-190741](https://user-images.githubusercontent.com/1693027/111867569-d756bc80-89af-11eb-9e50-396687eacff5.png)
-![WX20210320-190919](https://user-images.githubusercontent.com/1693027/111867571-d9b91680-89af-11eb-952c-eb6d76d5cd15.png)
 
+![image](https://github.com/riverO0o/pictures/blob/master/alfred-workflow/CleanShot%202021-08-11%20at%2014.26.41%402x.png)
+![image](https://github.com/riverO0o/pictures/blob/master/alfred-workflow/CleanShot%202021-08-11%20at%2014.26.49%402x.png)
+![image](https://github.com/riverO0o/pictures/blob/master/alfred-workflow/CleanShot%202021-08-11%20at%2014.27.22%402x.png)

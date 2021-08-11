@@ -9,7 +9,7 @@
 
 #### 1. 双击，填写自定义的订阅地址
 
-![Screen Shot 2021-03-20 at 6 43 31 PM](https://user-images.githubusercontent.com/1693027/111867326-2bf93800-89ae-11eb-9bd3-a073b99db003.png)
+![image](https://github.com/riverO0o/pictures/blob/master/alfred-workflow/CleanShot%202021-08-11%20at%2014.07.17%402x.png)
 
 ![Screen Shot 2021-03-20 at 6 44 26 PM](https://user-images.githubusercontent.com/1693027/111867408-a629bc80-89ae-11eb-8f20-f27d1d798fa1.png)
 

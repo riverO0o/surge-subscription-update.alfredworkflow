@@ -1,7 +1,9 @@
 
-# clash-subscription-update.alfredworkflow
+# surge-subscription-update.alfredworkflow
 
 > 通过 Alfred 更新 Subscription，并且支持自定义规则追加
+
+感谢 https://github.com/Kaijun/clash-subscription-update.alfredworkflow
 
 ## 配置
 

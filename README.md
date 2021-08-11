@@ -5,6 +5,10 @@
 
 感谢 https://github.com/Kaijun/clash-subscription-update.alfredworkflow
 
+需求来自目前surge使用托管配置的时候没有办法覆盖或者修改一些自己需要的规则。使用起来就很不方便。
+结果发现了clash的这个workflow，修改了一下用于surge。
+思路就是拿到托管配置，然后把自定义的规则添加进去。
+
 ## 配置
 
 #### 1. 双击，填写自定义的订阅地址

@@ -11,18 +11,18 @@
 
 ![image](https://github.com/riverO0o/pictures/blob/master/alfred-workflow/CleanShot%202021-08-11%20at%2014.07.17%402x.png)
 
-![Screen Shot 2021-03-20 at 6 44 26 PM](https://user-images.githubusercontent.com/1693027/111867408-a629bc80-89ae-11eb-8f20-f27d1d798fa1.png)
+![image](https://github.com/riverO0o/pictures/blob/master/alfred-workflow/CleanShot%202021-08-11%20at%2014.08.14%402x.png)
 
 注意：Arg 内，填写 `配置文件名 | 订阅URL` 其中分隔符` | `不要删除，必须保留
 
 #### 2. 填写追加配置
 
-![Screen Shot 2021-03-20 at 6 47 47 PM](https://user-images.githubusercontent.com/1693027/111867435-dbcea580-89ae-11eb-971b-64419b7e2a82.png)
-![Screen Shot 2021-03-20 at 6 49 22 PM](https://user-images.githubusercontent.com/1693027/111867436-de30ff80-89ae-11eb-99c1-59220fd78ff7.png)
+![image](https://github.com/riverO0o/pictures/blob/master/alfred-workflow/CleanShot%202021-08-11%20at%2014.16.27%402x.png)
+![image](https://github.com/riverO0o/pictures/blob/master/alfred-workflow/CleanShot%202021-08-11%20at%2014.17.25%402x.png)
 
 注意：
-- 配置会默认追加到 rules 最前面。
-- 如果配置路径有改动则修改 CLASH_CONFIG_PATH 
+- 配置会默认加到 [Rule] 下面，所有规则最前面。
+- 如果配置路径有改动则修改 SURGE_CONFIG_PATH 
 - 默认拉取超时 15秒，如果需要修改更长或者更短，则修改 `curl -m 15` 的值
 
 ## 使用截图
